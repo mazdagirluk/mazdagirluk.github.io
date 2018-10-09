@@ -53,8 +53,7 @@ collections:
   girlscouts:
     output: true
     title: Girl Scout STEM ideas
-    description: Ideas for girls to build and develop their STEM skills
-
+    
 #
 # !! You don't need to change any of the configuration flags below !!
 #

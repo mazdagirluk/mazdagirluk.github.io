@@ -54,9 +54,6 @@ collections:
   output: true
   title: Girl Scout STEM ideas
   description: Ideas for girls to build and develop their STEM skills
-  source: https://github.com/mazdagirluk/mazdagirluk.github.io
-  permalink: :collection/:title
-
 
 #
 # !! You don't need to change any of the configuration flags below !!

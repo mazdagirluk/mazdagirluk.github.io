@@ -49,10 +49,10 @@ url:
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
-collections:
-  girlscouts:
-    output: true
-    title: Girl Scout STEM ideas
+# collections:
+#   girlscouts:
+#     output: true
+#     title: Girl Scout STEM ideas
     
 #
 # !! You don't need to change any of the configuration flags below !!
